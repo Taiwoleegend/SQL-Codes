@@ -1,1 +1,1 @@
-# SQL-Codes
+I have successfully completed exercises and practical coding in SQL, gaining proficiency in various aspects of SQL database management and querying. Below are examples of basic SQL coding I am skilled in, These examples represent some of the fundamental SQL skills I have gained, including creating tables, inserting data, querying records, updating, and deleting entries, Subqueries, CTE’s, joins Etc.

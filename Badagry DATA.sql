@@ -101,26 +101,7 @@ INSERT INTO students (first_name, last_name, date_of_birth, gender, address, pho
 ('Ebere', 'Uzo', '2006-01-25', 'Female', '10 Magbon Lane, Badagry', '08123456781', 'ebere.uzo@example.com', '2025-02-23', 'Chidi Uzo', '08189012346'),
 ('Tayo', 'Oshoba', '2005-10-03', 'Male', '19 Apa Street, Badagry', '09090123457', 'tayo.osh@example.com', '2025-02-24', 'Yemi Oshoba', '09067890124'),
 ('Hauwa', 'Garba', '2007-04-15', 'Female', '6 Ilogbo Road, Badagry', '08023456781', 'hauwa.gar@example.com', '2025-02-25', 'Sani Garba', '08090123457'),
-('Kola', 'Akinwale', '2006-06-27', 'Male', '24 Oke Oja Street, Badagry', '07023456781', 'kola.aki@example.com', '2025-02-26', 'Bola Akinwale', '07089012346'),
-('Amara', 'Okoye', '2005-08-12', 'Female', '12 Hunbe Lane, Badagry', '08156789014', 'amara.oko@example.com', '2025-02-27', 'Ifeanyi Okoye', '08123456782'),
-('Ismail', 'Danjuma', '2004-11-19', 'Male', '21 Agbalumo Street, Badagry', '09023456781', 'ismail.dan@example.com', '2025-02-28', 'Aminat Danjuma', '09090123457'),
-('Funmi', 'Odetola', '2006-03-04', 'Female', '8 Posukoh Road, Badagry', '08034567892', 'funmi.ode@example.com', '2025-03-01', 'Segun Odetola', '08067890125'),
-('Chinedu', 'Ekwueme', '2005-09-28', 'Male', '16 Finny Quarters, Badagry', '07034567892', 'chinedu.ekw@example.com', '2025-03-02', 'Ada Ekwueme', '07090123457'),
-('Maryam', 'Suleiman', '2007-02-16', 'Female', '11 Gbaji Lane, Badagry', '08167890125', 'maryam.sul@example.com', '2025-03-03', 'Ibrahim Suleiman', '08123456783'),
-('Wale', 'Ogunsola', '2006-05-09', 'Male', '20 Oba Owo Road, Badagry', '09034567892', 'wale.ogu@example.com', '2025-03-04', 'Temi Ogunsola', '09067890125'),
-('Ify', 'Okafor', '2005-12-24', 'Female', '9 Jegba Lane, Badagry', '08045678903', 'ify.oka@example.com', '2025-03-05', 'Emeka Okafor', '08090123458'),
-('Umar', 'Haruna', '2004-10-11', 'Male', '23 Mowo Quarters, Badagry', '07045678903', 'umar.har@example.com', '2025-03-06', 'Hauwa Haruna', '07056789015'),
-('Temitope', 'Adewunmi', '2006-07-03', 'Female', '14 Agbara Street, Badagry', '08178901236', 'temitope.ade@example.com', '2025-03-07', 'Dele Adewunmi', '08123456784'),
-('Chijioke', 'Okoli', '2005-04-19', 'Male', '18 Apa Lane, Badagry', '09045678903', 'chijioke.oko@example.com', '2025-03-08', 'Nkechi Okoli', '09090123458'),
-('Raliat', 'Mustapha', '2007-01-08', 'Female', '7 Doven Road, Badagry', '08056789014', 'raliat.mus@example.com', '2025-03-09', 'Sani Mustapha', '08023456782'),
-('Gbenga', 'Olowookere', '2006-09-15', 'Male', '22 Hunbe Street, Badagry', '07056789014', 'gbenga.olo@example.com', '2025-03-10', 'Funke Olowookere', '07090123458'),
-('Ngozi', 'Anambra', '2005-06-30', 'Female', '10 Oke Oko Lane, Badagry', '08190123458', 'ngozi.ana@example.com', '2025-03-11', 'Chukwuma Anambra', '08167890126'),
-('Sadiq', 'Abubakar', '2004-12-02', 'Male', '19 Toga Quarters, Badagry', '09056789014', 'sadiq.abu@example.com', '2025-03-12', 'Aisha Abubakar', '09023456782'),
-('Yemisi', 'Akindele', '2006-02-17', 'Female', '13 Magbon Road, Badagry', '08067890126', 'yemisi.aki@example.com', '2025-03-13', 'Tunde Akindele', '08034567893'),
-('Obi', 'Nwadike', '2005-11-04', 'Male', '21 Gbaji Street, Badagry', '07067890126', 'obi.nwa@example.com', '2025-03-14', 'Amaka Nwadike', '07090123459'),
-('Halima', 'Yusuf', '2007-03-20', 'Female', '8 Isalu Lane, Badagry', '08123456784', 'halima.yus@example.com', '2025-03-15', 'Musa Yusuf', '08189012347'),
-('Deji', 'Ogunlade', '2006-08-26', 'Male', '16 Oba Akran Road, Badagry', '09067890126', 'deji.ogu@example.com', '2025-03-16', 'Bola Ogunlade', '09034567893'),
-('Nneka', 'Ezeala', '2005-05-13', 'Female', '12 Apa Quarters, Badagry', '08090123459', 'nneka.eze@example.com', '2025-03-17', 'Chidi Ezeala', '08056789015');
+
 
 -- Sample data for courses
 INSERT INTO courses (course_name, course_description, start_date, end_date, instructor_name, capacity) VALUES
